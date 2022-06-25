@@ -10,5 +10,8 @@ public class Z10_7 {
         System.out.printf("%.2f\u00B0 = %.15f rad\n", stopien, st_rad);
         System.out.printf("%.2f\' = %.15f rad\n", stopien, min_rad);
         System.out.printf("%.2f\" = %.15f rad\n", stopien, sek_rad);
+        /*String dir = System.getProperty("user.dir");
+        System.out.println();
+        System.out.println(dir);*/
     }
 }
